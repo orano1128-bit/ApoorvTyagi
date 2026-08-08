@@ -1,121 +1,91 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
-  <a href="https://x.com/apoorv__tyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://linkedin.com/in/apoorvtyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="http://discord.com/users/apoorv#4040" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://www.buymeacoffee.com/apoorvtyagi">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/buymeacoffee.svg" height="30" style="display:inline-block;" />
-  </a>
+# 👋 Hi, I'm Aymen
+
+### 🧑‍💻 Web Developer | E-commerce Developer
+
+I’m Aymen, a web developer focused on building modern and user-friendly **e-commerce websites**.
+
+I enjoy turning ideas into real websites, learning new technologies, and using AI tools to make the development process faster and more efficient.
+
+---
+
+## 🚀 About Me
+
+- 🛒 Specialized in **E-commerce websites**
+- 💻 Building modern and responsive web experiences
+- 🌱 Continuously learning and improving my development skills
+- 🤖 Using AI as a development and learning assistant
+- 🧠 Interested in web development, e-commerce, and modern technologies
+- 🚀 Always working on new ideas and projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+### Tools
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer working at PayPay 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write technical articles at [apoorvtyagi.tech](https://apoorvtyagi.tech/)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,spring,nodejs,git,kubernetes,elasticsearch,azure,aws,docker,mysql,mongodb" />
-      </a>
+### AI Tools
+
+<p>
+  🤖 Claude &nbsp; • &nbsp; ChatGPT &nbsp; • &nbsp; AI Coding Tools
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2052%20mins-blue?style=flat)
+## 🛍️ E-commerce Development
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2014%20mins-blue?style=flat)
+I mainly focus on building online stores and e-commerce experiences.
 
-**I'm a Night 🦉** 
+### What I work on:
 
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 52 mins (74.69%)
-
-✍️ 1,656 lines written by AI, 55 lines written by hand (96.79% AI-written)
-
-🔤 58,586,130 Input Tokens, 322,628 Output Tokens
-
-💵 $301.45 Estimated AI Cost This Week
-
-🧠 31 AI Sessions, 101 AI Prompts
-
-GPT                      927 lines           █████████████░░░░░░░░░░░░   52.61 % 
-Opus                     835 lines           ████████████░░░░░░░░░░░░░   47.39 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.79% of written lines came from AI
-📄 Detailed Prompter — average 1,026 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.18% of changed lines were hand-edited
-```
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress:** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 60.01% as on ⏰ 8-Aug-2026
+- 🏪 Online stores
+- 🛍️ Product pages
+- 🛒 Shopping carts
+- 💳 Checkout experiences
+- 📦 Order management
+- 👤 Customer accounts
+- 🔐 Admin dashboards
+- 📊 Product management
+- 📱 Responsive design
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles)
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-<!-- BLOG-POST-LIST:END -->
+## 📂 Featured Projects
 
-▶ [... view more](https://apoorvtyagi.tech/)
+> 🚧 I'm currently building and improving my projects.  
+> More projects will be added here soon.
 
----
+### 🛒 E-commerce Store
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+A modern online store focused on providing a simple and user-friendly shopping experience.
+
+**Tech:** HTML • CSS • JavaScript • React
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aymen_Sir&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 📈 My Developer Journey
+
+```text
+Learning       ███████████████████░░░   Growing every day
+Building       ██████████████████░░░░   New projects
+E-commerce     ███████████████████░░░   Main focus
+AI + Coding    ████████████████████░░   Exploring
 
